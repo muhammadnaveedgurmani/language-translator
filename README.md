@@ -1,5 +1,12 @@
 # 🌍 AI Language Translator
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+
 A modern, animated web-based language translation tool built with Flask and JavaScript. Developed as **Task 1** of the CodeAlpha Artificial Intelligence Internship.
 
 ## ✨ Features
@@ -17,7 +24,8 @@ A modern, animated web-based language translation tool built with Flask and Java
 - **Fonts/Icons**: Google Fonts (Poppins), Font Awesome
 
 ## 📸 Preview
-*(Add a screenshot here later)*
+
+![AI Language Translator](screenshot.png)
 
 ## 🚀 How to Run Locally
 
